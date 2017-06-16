@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1497600957 source:c:\users\simon.manske\documents\programming\dungeon crawler\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<tchar.h>
+
